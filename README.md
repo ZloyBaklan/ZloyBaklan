@@ -5,7 +5,7 @@
     Email: 7atom7@mail.ru
 
 ![](https://komarev.com/ghpvc/?username=ZloyBaklan&color=red)
-https://img.shields.io/badge/python-3.7-yellowgreen
+![](https://img.shields.io/badge/python-3.7-yellowgreen)
 <!---
 ZloyBaklan/ZloyBaklan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
