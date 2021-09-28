@@ -4,8 +4,8 @@
 - 📫 How to reach me:
     Email: 7atom7@mail.ru
 
-![](https://komarev.com/ghpvc/?username=Zloy_Baklan&color=red)
-
+![](https://komarev.com/ghpvc/?username=ZloyBaklan&color=red)
+![Profile views](https://gpvc.arturio.dev/[ZloyBaklan])
 
 <!---
 ZloyBaklan/ZloyBaklan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
