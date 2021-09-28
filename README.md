@@ -5,14 +5,11 @@
     Email: 7atom7@mail.ru
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloyBaklan&layout=compact)](https://github.com/ZloyBaklan/github-readme-stats)
-
 #### Visitors: 
 ![](https://komarev.com/ghpvc/?username=ZloyBaklan&color=red)
-
 ### Technologies: 
 ![](https://img.shields.io/badge/python-3.7-blue)
 ![](https://img.shields.io/badge/nginx-1.20.1-red)
-
 ### Statistic Card
 ![ZloyBaklan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZloyBaklan&show_icons=true&theme=radical)
 <!---
