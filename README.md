@@ -7,6 +7,8 @@
 #### Visitors: 
 ![](https://komarev.com/ghpvc/?username=ZloyBaklan&color=red)
 
+![ZloyBaklan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZloyBaklan&show_icons=true&theme=radical)
+
 ### Technologies: 
 ![](https://img.shields.io/badge/python-3.7-blue)
 ![](https://img.shields.io/badge/nginx-1.20.1-red)
