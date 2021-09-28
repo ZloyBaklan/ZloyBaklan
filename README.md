@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sergey Melnikov (@ZloyBaklan)
 - 👀 I’m interested in backend development in python.
-- 🌱 I’m currently learning python and matlab.
+- 🌱 I’m currently learning python, matlab, SQL and solidity.
 - 📫 How to reach me:
     Email: 7atom7@mail.ru
 ## Languages
