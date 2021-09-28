@@ -4,7 +4,7 @@
 - 📫 How to reach me:
     Email: 7atom7@mail.ru
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloyBaklan&langs_count=9)](https://github.com/ZloyBaklan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloyBaklan&langs_count=8)](https://github.com/ZloyBaklan/github-readme-stats)
 #### Visitors: 
 ![](https://komarev.com/ghpvc/?username=ZloyBaklan&color=red)
 ### Technologies: 
