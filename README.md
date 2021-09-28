@@ -4,7 +4,7 @@
 - 📫 How to reach me:
     Email: 7atom7@mail.ru
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=Zloy_Baklan&color=red)
 
 
 <!---
