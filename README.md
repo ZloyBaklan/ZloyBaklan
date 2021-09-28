@@ -4,8 +4,9 @@
 - 📫 How to reach me:
     Email: 7atom7@mail.ru
 
-* Visitors: 
+Visitors: 
 ![](https://komarev.com/ghpvc/?username=ZloyBaklan&color=red)
+
 * Technologies: 
 ![](https://img.shields.io/badge/python-3.7-blue)
 ![](https://img.shields.io/badge/nginx-1.20.1-red)
