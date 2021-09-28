@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning python and matlab.
 - 📫 How to reach me:
     Email: 7atom7@mail.ru
-# Languages
+## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloyBaklan&layout=compact)](https://github.com/ZloyBaklan/github-readme-stats)
+
+#### Visitors: 
+![](https://komarev.com/ghpvc/?username=ZloyBaklan&color=red)
 
 ### Technologies: 
 ![](https://img.shields.io/badge/python-3.7-blue)
