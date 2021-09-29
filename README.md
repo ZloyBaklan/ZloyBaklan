@@ -9,8 +9,11 @@
 ![](https://komarev.com/ghpvc/?username=ZloyBaklan&color=red)
 ### Technologies: 
 ![](https://img.shields.io/badge/python-3.7-blue)
-![](https://img.shields.io/badge/nginx-1.20.1-red)
+![](https://img.shields.io/badge/nginx-red)
 ![](https://img.shields.io/badge/SQL-green)
+![](https://img.shields.io/badge/Docker-grey)
+![](https://img.shields.io/badge/Solidity-orange)
+![](https://img.shields.io/badge/MatLab-lightorange)
 ### Statistic Card
 ![ZloyBaklan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZloyBaklan&hide=contribs,prs)
 <!---
