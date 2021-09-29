@@ -13,7 +13,10 @@
 ![](https://img.shields.io/badge/SQL-green)
 ![](https://img.shields.io/badge/Docker-grey)
 ![](https://img.shields.io/badge/Solidity-orange)
-![](https://img.shields.io/badge/MatLab-lightorange)
+![](https://img.shields.io/badge/Django-chocolate)
+![](https://img.shields.io/badge/MatLab-orange)
+![](https://img.shields.io/badge/Django-brown)
+![](https://img.shields.io/badge/rest-framework-purple)
 ### Statistic Card
 ![ZloyBaklan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZloyBaklan&hide=contribs,prs)
 <!---
