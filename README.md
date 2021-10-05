@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python, matlab, SQL and solidity.
 - 📫 How to reach me:
     Email: 7atom7@mail.ru
+    Telegram/What's Up: +7-921-952-25-05
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloyBaklan&langs_count=10)](https://github.com/ZloyBaklan/github-readme-stats)
 #### Visitors: 
